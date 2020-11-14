@@ -1,0 +1,14 @@
+.container{
+    box-shadow: 0px 0px 20px  #cccfce;
+}
+.h1{
+    text-align: center;
+    color: rgb(91, 197, 197);
+}
+.sop {
+    text-align: right;
+}
+.sop2 {
+    text-align: right;
+    color:  #716e77;
+}
